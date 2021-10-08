@@ -10,7 +10,6 @@
     </td>
     <td width="25%">
       <img src="/bb5ce166f5c905bfb35bbe4f986c128.jpg" width="100%"> 
-      <img src="/ecae400a8a11ee2b5be7e842d74fd2e.jpg" width="100%"> 
     </td>
   </tr>
 </table>
