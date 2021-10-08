@@ -16,29 +16,17 @@
 
 
 
-### Markdown
+### Publications
 
 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
+
+# 高慧军;黄华津;吴竞妍; (2020). 全媒体在国家治理中的价值及其实现机制. 中国行政管理, 12, 97-103+137.
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
 
