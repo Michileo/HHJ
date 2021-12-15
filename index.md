@@ -2,13 +2,13 @@
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>黄华津</h1>
       <p><b>Ph.D.candidate</b></p>
       <p><b>Communication University of China</b></p>
       <p><b>Email：cee@cuc.edu.cn</b></p>
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="/ecae400a8a11ee2b5be7e842d74fd2e.jpg" width="100%"> 
     </td>
   </tr>
@@ -51,7 +51,7 @@ A social science scholar interested in measuring the social information producti
 
 #### 2020-2021 National Scholarship for Doctoral Students in China
 #### 2019-2020 China Media Group Scholarship
-#### 2018-2019 & 2019-2020 & 2020-2021 First class academic scholarship for Postgraduates
+#### 2018-2019 & 2019-2020 & 2020-2021 First class academic scholarship
 
 
 Why you'd want to go on a date with me
