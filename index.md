@@ -17,7 +17,7 @@
 
 A social science scholar interested in measuring the social information production and flow, finding the impact of information systems on governance.
 
-### Publications
+# Publications
 
 
 
@@ -30,7 +30,7 @@ A social science scholar interested in measuring the social information producti
 #### 高慧军 & 黄华津.(2019).新时代我国政府公共关系优化研究. 中国行政管理(06),16-21. doi:10.19735/j.issn.1006-0863.2019.06.03.
 
 
-### Conference paper
+# Conference paper
 
 
 
@@ -39,7 +39,7 @@ A social science scholar interested in measuring the social information producti
 
 
 
-### Science Blog
+# Science Blog
 
 
 #### 复杂系统自动建模综述：描述、预测与理论发现,https://mp.weixin.qq.com/s/I-RH57-4qbSH1N8oAIiMYg
@@ -47,7 +47,7 @@ A social science scholar interested in measuring the social information producti
 
 
 
-### Honors and Awards
+# Honors and Awards
 
 #### 2020-2021 National Scholarship for Doctoral Students in China
 #### 2019-2020 China Media Group Scholarship
