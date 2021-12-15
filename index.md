@@ -1,4 +1,4 @@
-## Welcome to Huang's Homepage
+# Welcome to Huang's Homepage
 
 <table border="0">
   <tr>
