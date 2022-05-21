@@ -9,7 +9,7 @@
       <p><b>Email：cee@cuc.edu.cn</b></p>
     </td>
     <td width="50%">
-      <img src="/ecae400a8a11ee2b5be7e842d74fd2e.jpg" width="75%"> 
+      <img src="ecae400a8a11ee2b5be7e842d74fd2e.jpg" width="50%"> 
     </td>
   </tr>
 </table>
