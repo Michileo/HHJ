@@ -9,7 +9,7 @@
       <p><b>Email：cee@cuc.edu.cn</b></p>
     </td>
     <td width="50%">
-      <img src="ecae400a8a11ee2b5be7e842d74fd2e.jpg" width="100%"> 
+      <img src="ecae400a8a11ee2b5be7e842d74fd2e.jpg" width="50%"> 
     </td>
   </tr>
 </table>
@@ -59,7 +59,7 @@ A social science scholar interested in measuring the social information producti
 # Talks
 
 #### 《中国社会计算发展报告》研讨会 
-#### 中传政院系列讲座预告|因果关系的新科学与Causal Al
+#### 中传政院系列讲座|因果关系的新科学与Causal Al
 
 
 
