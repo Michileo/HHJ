@@ -52,8 +52,8 @@ A social science scholar interested in measuring the social information producti
 # Science Blog
 
 
-#### 复杂系统自动建模综述：描述、预测与理论发现,https://mp.weixin.qq.com/s/I-RH57-4qbSH1N8oAIiMYg
-#### 涌现、因果与自指——“因果涌现”理论能否破解生命与意识之谜,https://mp.weixin.qq.com/s/Vw4gk-ClD0KqLM1PHnNAww
+#### 复杂系统自动建模综述：描述、预测与理论发现
+#### 涌现、因果与自指——“因果涌现”理论能否破解生命与意识之谜
 
 
 # Talks
